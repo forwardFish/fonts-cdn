@@ -12,3 +12,8 @@
 
 作为分布式组织，我们不会为这个仓库默认分配域名，需要使用方自行托管。
 目前这个仓库在 Github 上，那么就可以使用第三方 github raw cdn 服务。
+比如：
+
+1. 源文件： https://raw.githubusercontent.com/BioforestChain/fonts-cdn/main/src/roboto/medium.ttf
+1. 第三方： https://cdn.jsdelivr.net/gh/BioforestChain/fonts-cdn/main/src/roboto/medium.ttf
+1. 第三方： https://cdn.rawgit.com/BioforestChain/fonts-cdn/main/src/roboto/medium.ttf
